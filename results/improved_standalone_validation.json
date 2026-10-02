@@ -1,0 +1,40 @@
+{
+  "status": "PASS",
+  "train_valid_policy_disjoint": true,
+  "cv_policy_disjoint": true,
+  "preprocessing_fit_on_train_only": true,
+  "cv_independently_refitted": true,
+  "saved_predictions_and_metrics_match": true,
+  "raw_features_verified": false,
+  "scored_selected_predictions": 91,
+  "unscored_missing_targets": 10,
+  "submitted_day1_unchanged_files": 0,
+  "input_sha256": "f30ed6e93a371a0f306247a91938b895b8698b7f315741572ef07ec5b6e7df4a",
+  "followup": {
+    "status": "PASS",
+    "independently_refitted_candidate_splits": 140,
+    "followup_selection_uses_B1_train_only": true,
+    "saved_followup_predictions_and_gap_match": true,
+    "primary_model_and_scores_preserved": true,
+    "unique_normalized_barcodes": 139,
+    "submitted_day1_unchanged_files": 0
+  },
+  "improvement": {
+    "status": "PASS",
+    "independently_refitted_candidate_splits": 800,
+    "nested_selection_train_only": true,
+    "weighted_LAD_optimum_verified": true,
+    "preprocessing_fit_on_train_only": true,
+    "saved_predictions_and_gap_match": true,
+    "previous_models_and_predictions_preserved": true,
+    "submitted_day1_unchanged_files": 0,
+    "prediction_cli": {
+      "status": "PASS",
+      "target_free_rows": 139,
+      "default_is_improved_model": true,
+      "range_diagnostics_verified": true,
+      "previous_model_supported": true,
+      "missing_feature_rejected": true
+    }
+  }
+}

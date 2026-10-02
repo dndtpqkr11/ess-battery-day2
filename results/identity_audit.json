@@ -1,0 +1,10 @@
+{
+  "cells_decoded": 139,
+  "unique_normalized_barcodes": 139,
+  "duplicate_barcode_cells": 0,
+  "cross_batch_duplicate_barcodes": 0,
+  "B3_channel46_cell_ids": [
+    "b3c37"
+  ],
+  "scope": "Barcode metadata identity; not an audit of physical chain of custody"
+}

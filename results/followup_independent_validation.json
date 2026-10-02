@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "independently_refitted_candidate_splits": 140,
+  "followup_selection_uses_B1_train_only": true,
+  "saved_followup_predictions_and_gap_match": true,
+  "primary_model_and_scores_preserved": true,
+  "unique_normalized_barcodes": 139,
+  "submitted_day1_unchanged_files": 40
+}

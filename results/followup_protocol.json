@@ -1,0 +1,106 @@
+{
+  "purpose": "B1 train-only ablation and repeated policy hold-out stability",
+  "train_ids": [
+    "b1c9",
+    "b1c11",
+    "b1c14",
+    "b1c15",
+    "b1c16",
+    "b1c17",
+    "b1c18",
+    "b1c19",
+    "b1c20",
+    "b1c21",
+    "b1c24",
+    "b1c25",
+    "b1c26",
+    "b1c27",
+    "b1c28",
+    "b1c29",
+    "b1c30",
+    "b1c31",
+    "b1c32",
+    "b1c33",
+    "b1c34",
+    "b1c35",
+    "b1c36",
+    "b1c37",
+    "b1c42",
+    "b1c43",
+    "b1c44",
+    "b1c45"
+  ],
+  "excluded_original_holdout_ids": [
+    "b1c5",
+    "b1c6",
+    "b1c7",
+    "b1c23",
+    "b1c38",
+    "b1c39",
+    "b1c40",
+    "b1c41"
+  ],
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "group_holdout_fraction": 0.25,
+  "candidates": {
+    "original_six": [
+      "log_dq_var",
+      "charge_I_time_std_5",
+      "QD_slope_100",
+      "chargetime_mean_100",
+      "Tavg_mean_100",
+      "IR_mean_100"
+    ],
+    "drop_current_std": [
+      "log_dq_var",
+      "QD_slope_100",
+      "chargetime_mean_100",
+      "Tavg_mean_100",
+      "IR_mean_100"
+    ],
+    "drop_IR": [
+      "log_dq_var",
+      "charge_I_time_std_5",
+      "QD_slope_100",
+      "chargetime_mean_100",
+      "Tavg_mean_100"
+    ],
+    "delta_current": [
+      "log_dq_var",
+      "charge_I_time_std_5"
+    ],
+    "delta_slope": [
+      "log_dq_var",
+      "QD_slope_100"
+    ],
+    "delta_ridge_log": [
+      "log_dq_var"
+    ],
+    "delta_linear_raw": [
+      "log_dq_var"
+    ]
+  },
+  "selection_rule": "Minimum mean MAPE across the 20 fixed repeated policy hold-outs; tie by fewer features then name",
+  "external_evaluation": "Already-seen B2/B3; diagnostic reuse, not a new untouched test"
+}

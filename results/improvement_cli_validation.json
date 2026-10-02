@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "target_free_rows": 139,
+  "default_is_improved_model": true,
+  "range_diagnostics_verified": true,
+  "previous_model_supported": true,
+  "missing_feature_rejected": true
+}

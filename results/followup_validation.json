@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "primary_artifacts_sha256": {
+    "models/selected_model.joblib": "16d2166cce84d87591fd35714ac94c14b7be25f758d34aec80ce809db9b0bb7b",
+    "results/predictions.csv": "a39ad4def3895fe78936432cda3c341206612fd27589ff15e845f943faf12634",
+    "results/performance_reporting.csv": "8d4707f035f9e5dfe1b612e941074fe16d482dde2fb0bf8fc9383e80dfd3d9ea"
+  },
+  "primary_results_unchanged": true,
+  "selection_used_B1_train_only": true,
+  "original_holdout_used_for_selection": false,
+  "external_scores_are_reused_test_diagnostics": true,
+  "policy_disjoint_splits": 20,
+  "submitted_day1_unchanged_files": 40
+}

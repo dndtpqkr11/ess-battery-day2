@@ -1,0 +1,3 @@
+model,cohort,MAPE_pct,MAE_cycles,RMSE_cycles,n,nonpositive_predictions
+preview_Ridge,"Published-rule B3 subset, reused diagnostic",15.24435852396015,189.33887183706065,289.8010612297429,40,0
+followup_Linear,"Published-rule B3 subset, reused diagnostic",12.581990158640894,154.50212679315266,252.86456452572628,40,0

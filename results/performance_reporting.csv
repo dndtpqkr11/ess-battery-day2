@@ -1,0 +1,2 @@
+Model,Features,Train_B1_CV_MAPE_pct,Train_B1_CV_std_pct,Valid_B1_MAPE_pct,Test_B2_MAPE_pct,Gap_Train_Valid_pp,Gap_Valid_Test_pp,Gap_Target_Test_pp,Target_MAPE_pct,Gap_formula,Additional_B3_MAPE_pct
+Ridge,compact_charge,9.013037955445565,1.952549540086241,9.842791123865279,61.24933887526885,0.8297531684197139,51.406547751403565,52.149338875268846,9.1,Valid-Train; Test-Valid; Test-Target (positive = larger error),15.670219574718244

@@ -1,0 +1,40 @@
+{
+  "raw_by_batch": {
+    "1": 46,
+    "2": 47,
+    "3": 46
+  },
+  "input_sha256": "f30ed6e93a371a0f306247a91938b895b8698b7f315741572ef07ec5b6e7df4a",
+  "B1_end_warning_excluded": [
+    "b1c0",
+    "b1c1",
+    "b1c2",
+    "b1c3",
+    "b1c4",
+    "b1c8",
+    "b1c10",
+    "b1c12",
+    "b1c13",
+    "b1c22"
+  ],
+  "missing_target_excluded": [
+    "b2c22",
+    "b2c23",
+    "b2c35",
+    "b2c36",
+    "b2c37",
+    "b2c38",
+    "b2c39",
+    "b2c40",
+    "b3c23",
+    "b3c32"
+  ],
+  "eligible_B1": 36,
+  "train": 28,
+  "valid": 8,
+  "train_policy_groups": 15,
+  "valid_policy_groups": 5,
+  "candidate_best_rows": 25,
+  "total_cv_configs": 85,
+  "day1_unchanged_files": 40
+}

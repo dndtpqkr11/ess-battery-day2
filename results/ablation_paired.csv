@@ -1,0 +1,8 @@
+candidate,mean_change_vs_original_pp,better_split_count,split_count
+delta_current,-1.2640935392927513,14,20
+delta_linear_raw,-1.9810322439314496,15,20
+delta_ridge_log,-1.7352266108468217,15,20
+delta_slope,-0.021270111683028857,11,20
+drop_IR,-0.3890277666391156,9,20
+drop_current_std,1.7499584050773138,2,20
+original_six,0.0,0,20

@@ -1,0 +1,47 @@
+cell_id,last_QD,channel_id,exclusion_reason,retained
+b3c0,0.8804329,10,,True
+b3c1,0.8802734,11,,True
+b3c2,0.88013124,12,"published sequential indices 3,40,41",False
+b3c3,0.88058406,13,,True
+b3c4,0.88001466,14,,True
+b3c5,0.88066918,15,,True
+b3c6,0.88052577,16,,True
+b3c7,0.88036358,17,,True
+b3c8,0.88094097,18,,True
+b3c9,0.8801114,19,,True
+b3c10,0.88064086,1,,True
+b3c11,0.88113368,20,,True
+b3c12,0.88080788,21,,True
+b3c13,0.88024569,22,,True
+b3c14,0.88065648,23,,True
+b3c15,0.88058048,24,,True
+b3c16,0.88014877,25,,True
+b3c17,0.88043362,27,,True
+b3c18,0.88003904,28,,True
+b3c19,0.88007373,29,,True
+b3c20,0.88059181,2,,True
+b3c21,0.8801983,30,,True
+b3c22,0.88094068,32,,True
+b3c23,0.93701142,33,published end capacity >0.885Ah,False
+b3c24,0.88021326,34,,True
+b3c25,0.88167018,35,,True
+b3c26,0.88023561,36,,True
+b3c27,0.88002509,37,,True
+b3c28,0.88010961,38,,True
+b3c29,0.88007307,39,,True
+b3c30,0.88024825,3,,True
+b3c31,0.88031369,40,,True
+b3c32,0.97388279,41,published end capacity >0.885Ah,False
+b3c33,0.88079751,42,,True
+b3c34,0.88017184,43,,True
+b3c35,0.88011736,44,,True
+b3c36,0.88060242,45,,True
+b3c37,0.88049883,46,published channel46 exclusion,False
+b3c38,0.88000458,47,,True
+b3c39,0.88043225,48,,True
+b3c40,0.88070726,4,,True
+b3c41,0.88062328,5,,True
+b3c42,0.88037544,6,"published sequential indices 3,40,41",False
+b3c43,0.88060749,7,"published sequential indices 3,40,41",False
+b3c44,0.88046378,8,,True
+b3c45,0.88047254,9,,True

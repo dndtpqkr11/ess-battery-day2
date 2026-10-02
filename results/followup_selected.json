@@ -1,0 +1,46 @@
+{
+  "candidate": "delta_linear_raw",
+  "features": [
+    "log_dq_var"
+  ],
+  "mean_repeated_holdout_MAPE_pct": 8.69049932555672,
+  "fixed_cv_MAPE_pct": 9.026313479563996,
+  "fixed_cv_std_pct": 0.7228541737132548,
+  "fixed_cv_fold_MAPE_pct": [
+    8.451117780048554,
+    8.582037251951697,
+    10.045785406691733
+  ],
+  "selection_rule": "Minimum mean MAPE across the 20 fixed repeated policy hold-outs; tie by fewer features then name",
+  "train_ids": [
+    "b1c9",
+    "b1c11",
+    "b1c14",
+    "b1c15",
+    "b1c16",
+    "b1c17",
+    "b1c18",
+    "b1c19",
+    "b1c20",
+    "b1c21",
+    "b1c24",
+    "b1c25",
+    "b1c26",
+    "b1c27",
+    "b1c28",
+    "b1c29",
+    "b1c30",
+    "b1c31",
+    "b1c32",
+    "b1c33",
+    "b1c34",
+    "b1c35",
+    "b1c36",
+    "b1c37",
+    "b1c42",
+    "b1c43",
+    "b1c44",
+    "b1c45"
+  ],
+  "input_sha256": "f30ed6e93a371a0f306247a91938b895b8698b7f315741572ef07ec5b6e7df4a"
+}

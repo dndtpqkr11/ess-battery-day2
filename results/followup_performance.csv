@@ -1,0 +1,7 @@
+구분,MAPE (%) / Gap (%p),비고
+Train (Batch 1 CV),9.026313479563996,Original fixed 3-fold; diagnostic after follow-up selection
+Valid (Batch 1 Hold-out),9.86414673843997,Previously seen; excluded from follow-up selection
+Test (Batch 2),28.719562388692623,Previously seen; reused-test score
+Gap (Train-Valid),0.8378332588759747,Valid-Train; percentage points
+Gap (Valid-Test),18.855415650252652,Test-Valid; percentage points
+Gap (Target-Test),19.61956238869262,Test-9.1; percentage points

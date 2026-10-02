@@ -1,0 +1,7 @@
+구분,MAPE (%) / Gap (%p),비고
+Train (Batch 1 CV),9.013037955445563,3-fold mean; std=1.952549540086241
+Valid (Batch 1 Hold-out),9.84279112386528,8 cells; policy group split
+Test (Batch 2),61.24933887526885,39 valid targets
+Gap (Train-Valid),0.8297531684197139,Valid-Train; percentage points
+Gap (Valid-Test),51.406547751403565,Test-Valid; percentage points
+Gap (Target-Test),52.149338875268846,Test-9.1; percentage points
