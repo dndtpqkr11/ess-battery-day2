@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.DS_Store
+raw/
+tmp/
+archive/
+output/
+day1_snapshot.json
+submitted_day1_snapshot.json
